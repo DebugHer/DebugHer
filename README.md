@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayomikun-a-6a0483126/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannyadegoke/)
 
 <p align="center">
    <code>Visitor count</code>
